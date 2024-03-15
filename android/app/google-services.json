@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811055477409",
+    "project_id": "agenda-digital-c462d",
+    "storage_bucket": "agenda-digital-c462d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811055477409:android:13e408c0a68cf0ebf676e0",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.agenda_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVvJdhfIpX-40urX2_sM_uioJmc48DUzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
